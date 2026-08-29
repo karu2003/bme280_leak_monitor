@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.fc_state/
+.git_commit_msg.txt
+tools/git_commit.py
